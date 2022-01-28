@@ -27,18 +27,18 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 
 ### Projects done so far:
 
-1. [Libft](https://github.com/VincentBaron/Libft) (Basic C).
-2. [GNL](https://github.com/VincentBaron/GNL) (Basic C + file descriptors).
-3. [Ft_server](https://github.com/VincentBaron/Ft_server) (Basic Docker images).
-4. [Printf](https://github.com/VincentBaron/Printf) (Intermediate C).
-5. [So_long](https://github.com/VincentBaron/So_Long) (Intermediate C).
-6. [Push_swap](https://github.com/VincentBaron/push_swap) (Intermediate C + algorithm).
-7. [Minitalk](https://github.com/VincentBaron/Minitalk) (Intermediate C).
-8. [Minishell](https://github.com/VincentBaron/Minishell) (Advance C).
-9. [Philosopher](https://github.com/VincentBaron/Philosophers) (Advanced C).
-10. [Cub3d](https://github.com/VincentBaron/Cub3d) (Advanced C).
-11. [Piscine C++](https://github.com/VincentBaron/Piscine_CPP) (Intermediate C++).
-12. [Ft_containers](https://github.com/VincentBaron/ft_containers) (Advanced C++).
+1. [Libft](https://github.com/VincentBaron/Libft) ( C Standard Library).
+2. [GNL](https://github.com/VincentBaron/GNL) (File parser in C).
+3. [Ft_server](https://github.com/VincentBaron/Ft_server) (Docker images & containers).
+4. [Printf](https://github.com/VincentBaron/Printf) (Printf function from scratch in C).
+5. [So_long](https://github.com/VincentBaron/So_Long) (2D video game in C).
+6. [Push_swap](https://github.com/VincentBaron/push_swap) (Stack sorting algorithm in C).
+7. [Minitalk](https://github.com/VincentBaron/Minitalk) (Signals communication in C).
+8. [Minishell](https://github.com/VincentBaron/Minishell) (bash from scratch in C).
+9. [Philosopher](https://github.com/VincentBaron/Philosophers) (Processor threads in C).
+10. [Cub3d](https://github.com/VincentBaron/Cub3d) (3D video game in C).
+11. [Piscine C++](https://github.com/VincentBaron/Piscine_CPP) (C++ introductory project).
+12. [Ft_containers](https://github.com/VincentBaron/ft_containers) (C++ STL from scratch).
 
 ### Projects remaining before starting my Internship:
 
