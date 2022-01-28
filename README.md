@@ -25,15 +25,9 @@ I am a 42 Paris Student studying Software Development and I am looking to start 
 
 42 is a peer-to-peer learning Software Developement School which gives us many different projects covering all domains of Software Developement. This school is great in the sense that it teaches you to figure out things out by yourself and spend time understanding the theory behind each project to build the most effective solution. Make sure to look at each projects I have already done to understand the skills I gained and what I achieved :smile:.
 
-1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
+### Projects done so far:
 
-<a name="desc"></a>
-## 1. Description
-
-sometext
-
-<a name="usage"></a>
-## 2. Usage tips
+1. [Libft](https://github.com/VincentBaron/Libft)(Basic C programming)
+2. [GNL](#usage)
 
 sometext
