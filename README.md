@@ -27,7 +27,16 @@ I am a 42 Paris Student studying Software Development and I am looking to start 
 
 ### Projects done so far:
 
-1. [Libft](https://github.com/VincentBaron/Libft)(Basic C programming)
-2. [GNL](#usage)
+1. [Libft](https://github.com/VincentBaron/Libft) (Basic C).
+2. [GNL](https://github.com/VincentBaron/GNL) (Basic C + file descriptors).
+3. [Printf](https://github.com/VincentBaron/Printf) (Intermediate C).
+4. [so_long](https://github.com/VincentBaron/Libft) (Intermediate C).
+5. [push_swap](https://github.com/VincentBaron/Libft) (Intermediate C + algorithm).
+6. [minitalk](https://github.com/VincentBaron/Libft) (Intermediate C).
+7. [minishell](https://github.com/VincentBaron/Libft) (Advance C).
+8. [Philosopher](https://github.com/VincentBaron/Libft) (Advanced C).
+9. [Cub3d](https://github.com/VincentBaron/Libft) (Advanced C).
+10. [Piscine C++](https://github.com/VincentBaron/Libft) (Intermediate C++).
+11. [ft_containers](https://github.com/VincentBaron/Libft) (Advanced C++).
 
 sometext
