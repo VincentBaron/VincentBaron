@@ -34,7 +34,7 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 5. [So_long](https://github.com/VincentBaron/So_Long) (2D video game in C).
 6. [Push_swap](https://github.com/VincentBaron/push_swap) (Stack sorting algorithm in C).
 7. [Minitalk](https://github.com/VincentBaron/Minitalk) (Signals communication in C).
-8. [Minishell](https://github.com/VincentBaron/Minishell) (bash from scratch in C).
+8. [Minishell](https://github.com/VincentBaron/Minishell) (Bash command line from scratch in C).
 9. [Philosopher](https://github.com/VincentBaron/Philosophers) (Processor threads in C).
 10. [Cub3d](https://github.com/VincentBaron/Cub3d) (3D video game in C).
 11. [Piscine C++](https://github.com/VincentBaron/Piscine_CPP) (C++ introductory project).
