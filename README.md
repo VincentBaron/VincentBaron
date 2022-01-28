@@ -23,4 +23,10 @@ I am a 42 Paris Student studying Software Development and I am looking to start 
 
 ## What is 42 ?
 
-42 is a peer-to-peer learning Software Developement School which gives us many different projects covering all domains of Software Developement. This school is great in the sense that it teaches you to figure out things out by yourself and spend time understanding the theory behind each project to build the most effective solution. Make sure to look at each projects I have already done to understand the skills I gained and what I achieved :smile:. 
+42 is a peer-to-peer learning Software Developement School which gives us many different projects covering all domains of Software Developement. This school is great in the sense that it teaches you to figure out things out by yourself and spend time understanding the theory behind each project to build the most effective solution. Make sure to look at each projects I have already done to understand the skills I gained and what I achieved :smile:.
+
+**Projects I have done so far**
+
+# Libft (Basic C Programming)
+# GNL (Basic C Programming + Fd managment)
+# Printf (Intermediate C Programming)
