@@ -39,4 +39,8 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 10. [Piscine C++](https://github.com/VincentBaron/Libft) (Intermediate C++).
 11. [Ft_containers](https://github.com/VincentBaron/Libft) (Advanced C++).
 
-sometext
+### Projects remaining before starting my Internship:
+
+1. [Inception]() (Virtual Machine and Docker Containers).
+2. [Webserv]() (HTTP Server in C++).
+3. [Ft_transcendence]() (Web App Back + Front with Node.js and React.js).
