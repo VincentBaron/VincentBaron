@@ -25,23 +25,15 @@ I am a 42 Paris Student studying Software Development and I am looking to start 
 
 42 is a peer-to-peer learning Software Developement School which gives us many different projects covering all domains of Software Developement. This school is great in the sense that it teaches you to figure out things out by yourself and spend time understanding the theory behind each project to build the most effective solution. Make sure to look at each projects I have already done to understand the skills I gained and what I achieved :smile:.
 
-**Table of Contents**
+1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
 
-[TOCM]
+<a name="desc"></a>
+## 1. Description
 
-[TOC]
+sometext
 
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
-#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-##Heading 2 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-###Heading 3 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-####Heading 4 link [Heading link](https://github.com/pandao/editor.md "Heading link") Heading link [Heading link](https://github.com/pandao/editor.md "Heading link")
-#####Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
-######Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+<a name="usage"></a>
+## 2. Usage tips
 
-##Headers (Underline)
+sometext
