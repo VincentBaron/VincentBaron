@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Who am I ?
 
-I am a 42 Paris Student studying Software Development and I am looking to start my Internship this summer. I have a background in Aerospace Engineering and worked as a Field Service Engineer during 2 years. I am now changing orientation with my main interests in Web Developement and Cyber Security.
+I am a 42 Paris Student studying Software Development and I am looking to start my mid cursus 6 months internship this summer. I have a background in Aerospace Engineering and worked as a Field Service Engineer during 2 years. I am now changing orientation with a special interest in Web Developement and Cyber Security.
 
 ## What is 42 ?
 
