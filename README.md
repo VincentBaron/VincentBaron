@@ -27,6 +27,10 @@ I am a 42 Paris Student studying Software Development and I am looking to start 
 
 **Projects I have done so far**
 
+[TOCM]
+
+[TOC]
+
 # Libft (Basic C Programming)
 # GNL (Basic C Programming + Fd managment)
 # Printf (Intermediate C Programming)
