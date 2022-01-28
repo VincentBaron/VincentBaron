@@ -38,7 +38,7 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 9. [Philosopher](https://github.com/VincentBaron/Philosophers) (Processor threads in C).
 10. [Cub3d](https://github.com/VincentBaron/Cub3d) (3D video game in C).
 11. [Piscine C++](https://github.com/VincentBaron/Piscine_CPP) (C++ introductory project).
-12. [Ft_containers](https://github.com/VincentBaron/ft_containers) (C++ STL from scratch).
+12. [Ft_containers](https://github.com/VincentBaron/ft_containers) (STL containers from scratch in C++).
 
 ### Projects remaining before starting my Internship:
 
