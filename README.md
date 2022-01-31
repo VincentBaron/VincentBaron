@@ -48,8 +48,8 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 
 ## Useful info
 
-- 🔭 I’m currently working on creating C++ containers from scratch
-- 🌱 I’m currently learning C++ and React.js
+- 🔭 I’m currently working on creating C++ containers from scratch.
+- 🌱 I’m currently learning C++ and React.js.
 - 👯 I’m looking to collaborate on Health, cyber-security and web developement projects.
 - 🤔 I’m looking for help with finding an internship!
 - 💬 Ask me about C++ and C.
