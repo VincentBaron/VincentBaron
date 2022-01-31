@@ -45,3 +45,14 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 1. [Inception]() (Virtual Machine and Docker Containers).
 2. [Webserv]() (HTTP Server in C++).
 3. [Ft_transcendence]() (Web App Back + Front with Node.js and React.js).
+
+## Useful info
+
+- 🔭 I’m currently working on creating C++ containers from scratch
+- 🌱 I’m currently learning C++ and React.js
+- 👯 I’m looking to collaborate on Health, cyber-security and web developement projects.
+- 🤔 I’m looking for help with finding an internship!
+- 💬 Ask me about C++ and C.
+- 📫 How to reach me: vbaron@student.42.fr.
+- 😄 Pronouns: Vinny.
+- ⚡ Fun fact: I've lived all around the world!
