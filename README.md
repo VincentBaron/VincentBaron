@@ -53,6 +53,7 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 
 ## Useful info
 
+- :book: [My Linkedin](https://www.linkedin.com/in/vincent-baron-775335156/).
 - 🔭 I’m currently working on creating C++ containers from scratch.
 - 🌱 I’m currently learning C++ and React.js.
 - 👯 I’m looking to collaborate on Health, cyber-security and web developement projects.
