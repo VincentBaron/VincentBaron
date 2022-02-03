@@ -50,6 +50,7 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 
 1. [Food ordering app](https://github.com/VincentBaron/ReactFoodApp) in React.js.
 2. [Python](https://github.com/VincentBaron/Python_Projects) specialised in Data Engineering.
+3. [Cyber security learner](https://www.root-me.org/VinnyLeHacker).
 
 ## Useful info
 
