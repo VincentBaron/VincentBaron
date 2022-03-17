@@ -42,8 +42,8 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 
 ### Projects remaining before starting my Internship:
 
-1. [Inception]() (Virtual Machine and Docker Containers).
-2. [Webserv]() (HTTP Server in C++).
+1. [Inception](https://github.com/VincentBaron/Inception) (Virtual Machine and Docker Containers).
+2. [Webserv](https://github.com/VincentBaron/Webserv) (HTTP Server in C++).
 3. [Ft_transcendence]() (Web App Back + Front with Node.js and React.js).
 
 ### My other personal projects and skills
