@@ -39,12 +39,12 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 10. [Cub3d](https://github.com/VincentBaron/Cub3d) (3D video game in C).
 11. [Piscine C++](https://github.com/VincentBaron/Piscine_CPP) (C++ introductory project).
 12. [Ft_containers](https://github.com/VincentBaron/ft_containers) (STL containers from scratch in C++).
+13. [Inception](https://github.com/VincentBaron/Inception) (Virtual Machine and Docker Containers).
+14. [Webserv](https://github.com/VincentBaron/Webserv) (HTTP Server in C++).
 
 ### Projects remaining before starting my Internship:
 
-1. [Inception](https://github.com/VincentBaron/Inception) (Virtual Machine and Docker Containers).
-2. [Webserv](https://github.com/VincentBaron/Webserv) (HTTP Server in C++).
-3. [Ft_transcendence]() (Web App Back + Front with Node.js and React.js).
+1. [Ft_transcendence]() (Web App Back + Front with Node.js and React.js).
 
 ### My other personal projects and skills
 
