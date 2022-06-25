@@ -44,7 +44,7 @@ If you haven't heard of it already, 42 is a peer-to-peer learning Software Devel
 
 ### Projects remaining before starting my Internship:
 
-1. [Ft_transcendence]() (Web App Back + Front with Node.js and React.js).
+1. [Ft_transcendence](https://github.com/VincentBaron/ft_transcendance) (Web App Back + Front with Node.js and React.js).
 
 ### My other personal projects and skills
 
