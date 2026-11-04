@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Building a software factory
+Building a software factory
 
-## Useful info
-
-- :book: [My Linkedin](https://www.linkedin.com/in/vincent-baron-775335156/).
+[My Linkedin](https://www.linkedin.com/in/vincent-baron-775335156/)
