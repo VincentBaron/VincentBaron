@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my Github !
+# Building a software factory
 
 ## Useful info
 
 - :book: [My Linkedin](https://www.linkedin.com/in/vincent-baron-775335156/).
-- 🔭 I’m currently working on scaling backend microservices at Side.
-- 💬 Ask me about Go.
-- 😄 Pronouns: Vinny.
-- ⚡ Fun fact: I've lived all around the world!
